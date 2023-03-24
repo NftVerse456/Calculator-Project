@@ -1,2 +1,2 @@
 # Calculator-Project
-Static Calculator
+Static Calculator made with HTML & CSS.
