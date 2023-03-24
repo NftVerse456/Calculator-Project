@@ -1,0 +1,2 @@
+# Calculator-Project
+Static Calculator
